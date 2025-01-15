@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandip1bhatta" alt="sandip1bhatta" /></a> </p>
 
-- 🔭 I’m currently working on **Vue JS**
-
 - 🌱 I’m currently learning **Advanced JS, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sandip1bhatta/](https://github.com/Sandip1bhatta/)
 
-- 💬 Ask me about **C, C++, C#, HTML, CSS, JS, php**
+- 💬 Ask me about **C, C++, HTML, CSS, JS**
 
 - 📫 How to reach me **sandip.2bhatta@gmail.com**
 
